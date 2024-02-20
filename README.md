@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, guys</h1>
-
+- Hi 👋, guys
 - 🔭 I’m currently working on [imagica](https://get.imagica.ai/)
 
 ### Latest Blog Posts:
