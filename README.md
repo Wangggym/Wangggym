@@ -1,5 +1,5 @@
 
-#### 🌟 Hi 👋, guys 🌟
+#### 🌟 Hi 👋, guys, welcome to my home 🌟
 I’m currently working on [imagica](https://get.imagica.ai/)
   
 ###### Latest Blog Posts:
