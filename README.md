@@ -1,5 +1,3 @@
-<div align="left" src="" width="50%" height="100%">
-<br>
 
 <h1 align="center">Hi 👋, guys</h1>
 
