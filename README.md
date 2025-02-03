@@ -1,6 +1,6 @@
 
 #### 🌟 Hi 👋, guys. Welcome to my home 🌟
-I’m currently working on [Natural App](https://apps.apple.com/us/app/natural-imagine-simplicity/id1521375720) and [imagica.ai](https://get.imagica.ai/) .
+I’m currently working on [Natural App](https://apps.apple.com/us/app/natural-imagine-simplicity/id1521375720) and [imagica.ai](https://www.imagica.ai/) .
   
 ###### Latest Blog Posts:
 * [Cursor零代码开发 双因素认证APP](https://www.yuque.com/wangym0203/auh6f6/pnsozaua2ccbv8i3)
