@@ -10,4 +10,8 @@ I’m currently working on [Natural App](https://apps.apple.com/us/app/natural-i
 * [用了vpn, 还想同时用whistle?](https://www.yuque.com/wangym0203/auh6f6/rug76vscpwx4otbm)
 * [开发效率工具之qwflow](https://www.yuque.com/wangym0203/auh6f6/whuh8suw5dnf0wlh)
 
+
+
+
+* [更多博客内容](https://yiminlab.site/blog)
   
