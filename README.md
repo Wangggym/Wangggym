@@ -1,6 +1,6 @@
 
 #### 🌟 Hi 👋, guys. Welcome to my home 🌟
-I’m currently working on [Natural App](https://apps.apple.com/us/app/natural-imagine-simplicity/id1521375720) and [imagica.ai](https://www.imagica.ai/) .
+I’m currently working on [Natural AI Phone](https://www.softbank.jp/mobile/products/smartphone/natural-ai-phone/) and [imagica.ai](https://www.imagica.ai/) .
   
 ###### Latest Blog Posts:
 * [RAG：让 AI 只说有据可查的话](https://yiminlab.site/blog/rag-retrieval-augmented-generation-guide)
